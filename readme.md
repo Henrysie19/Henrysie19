@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/henrysie19" target="blank"><img src="https://img.shields.io/twitter/follow/henrysie19?logo=twitter&style=for-the-badge" alt="henrysie19" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Data Analyst**
 
 - 📝 I regularly write articles and projects on my blog and github [https://henrysie19.wordpress.com/](https://henrysie19.wordpress.com/)
 
